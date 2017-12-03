@@ -1,0 +1,49 @@
+﻿  json_writer.cpp
+  json_value.cpp
+  json_reader.cpp
+c:\jsoncpp-master\include\json\reader.h(38): warning C4996: 'Json::Reader::Char': Use CharReader and CharReaderBuilder instead
+  c:\jsoncpp-master\include\json\reader.h(37): note: 'Json::Reader::Char' 선언을 참조하십시오.
+c:\jsoncpp-master\include\json\reader.h(181): warning C4996: 'Json::Reader::Location': Use CharReader and CharReaderBuilder instead
+  c:\jsoncpp-master\include\json\reader.h(38): note: 'Json::Reader::Location' 선언을 참조하십시오.
+c:\jsoncpp-master\include\json\reader.h(182): warning C4996: 'Json::Reader::Location': Use CharReader and CharReaderBuilder instead
+  c:\jsoncpp-master\include\json\reader.h(38): note: 'Json::Reader::Location' 선언을 참조하십시오.
+c:\jsoncpp-master\include\json\reader.h(189): warning C4996: 'Json::Reader::Location': Use CharReader and CharReaderBuilder instead
+  c:\jsoncpp-master\include\json\reader.h(38): note: 'Json::Reader::Location' 선언을 참조하십시오.
+c:\jsoncpp-master\include\json\reader.h(196): warning C4996: 'Json::Reader::Location': Use CharReader and CharReaderBuilder instead
+  c:\jsoncpp-master\include\json\reader.h(38): note: 'Json::Reader::Location' 선언을 참조하십시오.
+c:\jsoncpp-master\include\json\reader.h(212): warning C4996: 'Json::Reader::Location': Use CharReader and CharReaderBuilder instead
+  c:\jsoncpp-master\include\json\reader.h(38): note: 'Json::Reader::Location' 선언을 참조하십시오.
+c:\jsoncpp-master\include\json\reader.h(213): warning C4996: 'Json::Reader::Location': Use CharReader and CharReaderBuilder instead
+  c:\jsoncpp-master\include\json\reader.h(38): note: 'Json::Reader::Location' 선언을 참조하십시오.
+c:\jsoncpp-master\include\json\reader.h(216): warning C4996: 'Json::Reader::Location': Use CharReader and CharReaderBuilder instead
+  c:\jsoncpp-master\include\json\reader.h(38): note: 'Json::Reader::Location' 선언을 참조하십시오.
+c:\jsoncpp-master\include\json\reader.h(217): warning C4996: 'Json::Reader::Location': Use CharReader and CharReaderBuilder instead
+  c:\jsoncpp-master\include\json\reader.h(38): note: 'Json::Reader::Location' 선언을 참조하십시오.
+c:\jsoncpp-master\include\json\reader.h(219): warning C4996: 'Json::Reader::Location': Use CharReader and CharReaderBuilder instead
+  c:\jsoncpp-master\include\json\reader.h(38): note: 'Json::Reader::Location' 선언을 참조하십시오.
+c:\jsoncpp-master\include\json\reader.h(226): warning C4996: 'Json::Reader::Char': Use CharReader and CharReaderBuilder instead
+  c:\jsoncpp-master\include\json\reader.h(37): note: 'Json::Reader::Char' 선언을 참조하십시오.
+c:\jsoncpp-master\include\json\reader.h(228): warning C4996: 'Json::Reader::Location': Use CharReader and CharReaderBuilder instead
+  c:\jsoncpp-master\include\json\reader.h(38): note: 'Json::Reader::Location' 선언을 참조하십시오.
+c:\jsoncpp-master\include\json\reader.h(229): warning C4996: 'Json::Reader::Location': Use CharReader and CharReaderBuilder instead
+  c:\jsoncpp-master\include\json\reader.h(38): note: 'Json::Reader::Location' 선언을 참조하십시오.
+c:\jsoncpp-master\include\json\reader.h(230): warning C4996: 'Json::Reader::Location': Use CharReader and CharReaderBuilder instead
+  c:\jsoncpp-master\include\json\reader.h(38): note: 'Json::Reader::Location' 선언을 참조하십시오.
+c:\jsoncpp-master\include\json\reader.h(233): warning C4996: 'Json::Reader::Location': Use CharReader and CharReaderBuilder instead
+  c:\jsoncpp-master\include\json\reader.h(38): note: 'Json::Reader::Location' 선언을 참조하십시오.
+c:\jsoncpp-master\include\json\reader.h(234): warning C4996: 'Json::Reader::Location': Use CharReader and CharReaderBuilder instead
+  c:\jsoncpp-master\include\json\reader.h(38): note: 'Json::Reader::Location' 선언을 참조하십시오.
+c:\jsoncpp-master\include\json\reader.h(237): warning C4996: 'Json::Reader::Nodes': Use CharReader and CharReaderBuilder instead
+  c:\jsoncpp-master\include\json\reader.h(236): note: 'Json::Reader::Nodes' 선언을 참조하십시오.
+c:\jsoncpp-master\include\json\reader.h(238): warning C4996: 'Json::Reader::Errors': Use CharReader and CharReaderBuilder instead
+  c:\jsoncpp-master\include\json\reader.h(192): note: 'Json::Reader::Errors' 선언을 참조하십시오.
+c:\jsoncpp-master\include\json\reader.h(240): warning C4996: 'Json::Reader::Location': Use CharReader and CharReaderBuilder instead
+  c:\jsoncpp-master\include\json\reader.h(38): note: 'Json::Reader::Location' 선언을 참조하십시오.
+c:\jsoncpp-master\include\json\reader.h(241): warning C4996: 'Json::Reader::Location': Use CharReader and CharReaderBuilder instead
+  c:\jsoncpp-master\include\json\reader.h(38): note: 'Json::Reader::Location' 선언을 참조하십시오.
+c:\jsoncpp-master\include\json\reader.h(242): warning C4996: 'Json::Reader::Location': Use CharReader and CharReaderBuilder instead
+  c:\jsoncpp-master\include\json\reader.h(38): note: 'Json::Reader::Location' 선언을 참조하십시오.
+c:\jsoncpp-master\include\json\reader.h(243): warning C4996: 'Json::Reader::Location': Use CharReader and CharReaderBuilder instead
+  c:\jsoncpp-master\include\json\reader.h(38): note: 'Json::Reader::Location' 선언을 참조하십시오.
+  코드를 생성하고 있습니다...
+  lib_json.vcxproj -> C:\jsoncpp-master\makefiles\msvc2010\x64\Debug\lib_json.lib
